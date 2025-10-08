@@ -3,7 +3,6 @@ import type { Config } from "tailwindcss";
 // @ts-ignore
 // @ts-ignore
 const config = {
-  darkMode: ["class"],
   content: [
     "./pages/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
